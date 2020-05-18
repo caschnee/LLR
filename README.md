@@ -38,4 +38,9 @@ Then, update your card template in Anki to add the link to Kanji Study, for exam
 <a href="kanjistudy://word?id={{reference_kanji_study}}">{{word_japanese}}</a>
 ```
 
-You should be able to access the specific Kanji in Kanji Study app (if you have it on your phone) by clicking on the link in the Anki Application. Tested with Android.
+You should be able to access the specific Japanese word in Kanji Study app by clicking on the word in the Anki Application. Tested with Android. You need to have the Kanji Study app installed on your phone as well.
+
+![](example_anki.jpg) | -> | ![](example_kanji_study.jpg)
+:-------------------------:|:-------------------------:|:-------------------------:
+
+
