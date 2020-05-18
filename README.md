@@ -3,7 +3,7 @@
 ## Anki 
 ### Add Kanji Study reference ID to Anki flashcards (Japanese Learning & Anki Mobile App)
 
-When reviewing a japanese word on the Anki mobile App, open the Kanji Study page for the sepcific word by clicking on a link. This to quickly review details and meaning of the specific Kanji(s).
+When reviewing a japanese word on the Anki mobile App, open the [Kanji Study](http://kanjistudyapp.com/) view of the sepcific word in one click. This to quickly review details and meaning of the specific Kanji(s).
 
 You need the following before running the script:
 
